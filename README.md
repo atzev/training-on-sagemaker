@@ -41,17 +41,7 @@ git clone https://github.com/aws-samples/sagemaker-distributed-training-workshop
 &nbsp; 
 
 
-**Part 3** 
-
-1Run the following command in the terminal 
-```
-https://github.com/aws-neuron/aws-neuron-samples.git
-```
-2. Navigate to     aws-neuron-samples/torch-neuron/inference/beit/BEiT.ipynb
-
-3.  Double click on the notebook to open it
-
-**Step 4:** 
+**Part 3:** 
 1. Run the following command in the terminal 
 ```
 git clone https://github.com/aws-samples/sagemaker-trainium-examples.git 
