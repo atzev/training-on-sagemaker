@@ -1,4 +1,4 @@
-# Training on SageMaker
+# SageMaker Labs
 
 **Part 1** 
 
@@ -43,10 +43,19 @@ git clone https://github.com/aws-samples/sagemaker-distributed-training-workshop
 
 **Part 3** 
 
-**Step3:** Run the following command in the terminal 
+1Run the following command in the terminal 
+```
+https://github.com/aws-neuron/aws-neuron-samples.git
+```
+2. Navigate to     aws-neuron-samples/torch-neuron/inference/vit /ViT.ipynb
+
+3.  Double click on the notebook to open it
+
+**Step 4:** 
+1. Run the following command in the terminal 
 ```
 git clone https://github.com/aws-samples/sagemaker-trainium-examples.git 
 ```
 2. Navigate to sagemaker-trainium-examples/1_text_classification/Fine tune Transformers for building classification models using SageMaker and Trainium.ipynb
 
-4. Double click on the notebook to open it
+3. Double click on the notebook to open it
