@@ -22,7 +22,7 @@ if args.save_model:
 with 
 ```
 path = str(os.environ["SM_MODEL_DIR"])
-model_path = os.path.join(path, "gcn.pt")
+model_path = os.path.join(path, "mnist_cnn.pt")
 ```
 &nbsp; 
 
