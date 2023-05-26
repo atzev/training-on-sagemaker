@@ -47,7 +47,7 @@ git clone https://github.com/aws-samples/sagemaker-distributed-training-workshop
 ```
 https://github.com/aws-neuron/aws-neuron-samples.git
 ```
-2. Navigate to     aws-neuron-samples/torch-neuron/inference/vit /ViT.ipynb
+2. Navigate to     aws-neuron-samples/torch-neuron/inference/beit/BEiT.ipynb
 
 3.  Double click on the notebook to open it
 
